@@ -21,7 +21,7 @@ Hello there 👋 My name is Murilo Bagodi, Welcome to my GitHub
 	<img align="center" alt="Murilo-NodeJs" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 	<img align="center" alt="Murilo-MySql" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 	<img align="center" alt="Murilo-Git" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-	<img align="center" alt="Murilo-TypeScript" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/typescript-original.svg">
+	<img align="center" alt="Murilo-TypeScript" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 ##
