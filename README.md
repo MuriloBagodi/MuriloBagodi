@@ -1,8 +1,8 @@
 ## 
 Hello there 👋 My name is Murilo Bagodi, Welcome to my GitHub
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning React.js and React Native
+- 🔭 I’m currently working on Back-end
+- 🌱 I’m currently learning Typescript and Node.js
 - 📫 How to reach me: murilosbagodi@hotmail.com
 
 
